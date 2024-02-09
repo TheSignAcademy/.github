@@ -8,24 +8,6 @@
 
 ## Libreria giochi
 
-<table>
-  <tr>
-    <th>2022</th>
-    <td>
-      <div>
-        <a href="https://github.com/TheSignAcademy/tw_necrologium">
-          <img src="https://github.com/TheSignAcademy/.github/blob/main/profile/media/2022/Necrologium.jpg?raw=true" style="width:200; height:300; object-fit:cover" />
-        </a>
-        <div style="width:100%; text-align:center">2022 - <b>Necrologium</b></div>
-      </div>
-    </td>
-    <td>
-      <div>
-        <a href="https://github.com/TheSignAcademy/tw_dungeonsatwar">
-          <img src="https://github.com/TheSignAcademy/.github/blob/main/profile/media/2022/DungeonsAtWar.png?raw=true" style="width:200; height:300; object-fit:cover" />
-        </a>
-        <div style="width:100%; text-align:center">2022 - <b>Dungeons At War</b></div>
-      </div>
-    </td>
-  </tr>
-</table>
+| Anno | | | | | |
+| ---- | :--: | :--: | :--: | :--: | :--: |
+| **2023** | [![Necrologium](media/2022/Necrologium.png)](https://github.com/TheSignAcademy/tw_necrologium) <br/> [Necrologium](https://github.com/TheSignAcademy/tw_necrologium) | [![Dungeons at War](media/2022/DungeonsAtWar.png)](https://github.com/TheSignAcademy/tw_dungeonsatwar) <br/> [Dungeons At War](https://github.com/TheSignAcademy/tw_dungeonsatwar) | [![Late for Rungeon](media/2022/LateForRungeon.png)](https://github.com/TheSignAcademy/tw_rungeon) <br/> [Late for Rungeon](https://github.com/TheSignAcademy/tw_rungeon) | [![Bedtime Stories](media/2022/BedtimeStories.png)](https://github.com/TheSignAcademy/tw_bedtimestories) <br/> [Bedtime Stories](https://github.com/TheSignAcademy/tw_bedtimestories) |
