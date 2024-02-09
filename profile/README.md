@@ -7,7 +7,7 @@
 
 ## 2021 / 2023
 
-![](https://github.com/TheSignAcademy/tw_necrologium/blob/master/Marketing/Screenshots/necrologium-thumbnail.jpg?raw=true)
+[![](https://github.com/TheSignAcademy/tw_necrologium/blob/master/Marketing/Screenshots/necrologium-thumbnail.jpg?raw=true)](https://github.com/TheSignAcademy/tw_necrologium)
 
 <table>
   <tr>
