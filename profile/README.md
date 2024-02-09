@@ -1,19 +1,23 @@
 # TheSign Academy
 
 ## ALBO STUDENTI
+
 - [Triennio 2021/2024](https://github.com/TheSignAcademy/Albo_2124)
 - [Triennio 2022/2025](https://github.com/TheSignAcademy/Albo_2225)
 - [Triennio 2023/2026](https://github.com/TheSignAcademy/Albo_2326)
 
-## 2021 / 2023
-
-[![](https://github.com/TheSignAcademy/tw_necrologium/blob/master/Marketing/Screenshots/necrologium-thumbnail.jpg?raw=true)](https://github.com/TheSignAcademy/tw_necrologium)
+## Libreria giochi
 
 <table>
   <tr>
-    <td><a href="https://github.com/TheSignAcademy/tw_necrologium"><img src="media/necrologium.jpg" /></a></td>
-    <td><a href="https://github.com/TheSignAcademy/tw_necrologium"><img src="media/necrologium.jpg" /></a></td>
-    <td><a href="https://github.com/TheSignAcademy/tw_necrologium"><img src="media/necrologium.jpg" /></a></td>
-    <td><a href="https://github.com/TheSignAcademy/tw_necrologium"><img src="media/necrologium.jpg" /></a></td>
+    <th>2022</th>
+    <td>
+      <div>
+        <a href="https://github.com/TheSignAcademy/tw_necrologium">
+          <img src="https://github.com/TheSignAcademy/.github/blob/main/profile/media/2022/Necrologium.jpg?raw=true" style="width:200; height:300; object-fit:cover" />
+        </a>
+        <div style="width:100%; text-align:center">2022 - <b>Necrologium</b></div>
+      </div>
+    </td>
   </tr>
 </table>
